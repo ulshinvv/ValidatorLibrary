@@ -1,0 +1,12 @@
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\bin\Debug\net6.0\ValidatorLibrary.deps.json
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\bin\Debug\net6.0\ValidatorLibrary.dll
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\bin\Debug\net6.0\ValidatorLibrary.pdb
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.csproj.AssemblyReference.cache
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfoInputs.cache
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.AssemblyInfo.cs
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.dll
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\refint\ValidatorLibrary.dll
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ValidatorLibrary.pdb
+\\iscsi\profstud\UlshinVV\Desktop\Library\Library\obj\Debug\net6.0\ref\ValidatorLibrary.dll
